@@ -3,7 +3,7 @@ Welcome to my GitHub profile — a little hub of code, creativity, and community
 
 💻 I'm a Computer Science undergrad at FAST-NUCES Lahore, class of 2027.  
 🌟 I thrive at the intersection of tech, storytelling, and design.  
-🎨 I'm also an artist, content creator, and a student leader — currently active in societies like SOFTEC, U.n.I, and more.
+🎨 I'm also an artist, content creator, and a student leader — currently active in societies like NMG, SOFTEC and more.
 
 ## 🚀 What I'm into:
 - Full-stack development (React + SQL backend)
