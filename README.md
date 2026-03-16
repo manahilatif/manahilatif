@@ -63,7 +63,7 @@ The kind of engineer who cares how things feel, not just how they run.
 
 ## 📫 Let's connect
 - 💼 [LinkedIn](https://linkedin.com/in/syeda-manahil-atif)
-- 📧 manahilatf2021@gmail.com
+- 📧 manahilatif2021@gmail.com
 
 ---
 
