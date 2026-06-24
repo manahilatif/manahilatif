@@ -17,6 +17,9 @@ The kind of engineer who cares how things feel, not just how they run.
   82.42% accuracy · RAG-based question generation · Applied to real board exam
 
 ### 🌐 Web & Full Stack
+- 💌 **[A Cute Website](https://a-cute-website.vercel.app)**  
+  Digital greeting card platform · Next.js 15, Supabase, Brevo, React Email · Deployed on Vercel
+  
 - 🍳 **Cookbook App** *(Deploying soon)*  
   Full-stack recipe sharing and discovery platform
 
@@ -28,11 +31,10 @@ The kind of engineer who cares how things feel, not just how they run.
   Online healthcare companion · AI + full stack integration in progress
 
 ### 🛠️ Course Projects
-- 🗺️ **[Roadmapify](https://github.com/manahilatif/roadmapify)** *(In Progress)*  
+- 🗺️ **[Roadmapify](https://github.com/manahilatif/roadmapify)** 
   AI-powered personalized learning roadmap generator . Artificial Intelligence course project
   
 - 🕌 **[Amanah](https://github.com/nihaal237/Amanah-Your_Islamic_Companion)** 
-  *(In Progress — Team Lead)*  
   Islamic companion app · Software Engineering course project
 
 ---
